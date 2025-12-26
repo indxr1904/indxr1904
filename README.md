@@ -4,7 +4,7 @@ Full-Stack Developer (MERN)
 Designing and developing scalable, secure, and production-ready web applications using modern frontend frameworks and robust backend architectures.
 
 ---
-👋 About Me
+## 👋 About Me
 
 Full-Stack Developer (MERN)
 
