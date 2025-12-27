@@ -10,7 +10,7 @@ Full-Stack Developer (MERN)
 
 I design and develop scalable, secure, and maintainable web applications with a strong emphasis on clean user interfaces, reliable backend systems, and robust authentication workflows.
 
-My core expertise includes React, Node.js, MongoDB, and cloud-based deployment, with hands-on experience delivering features from initial concept through production release.
+I bring 6+ months of hands-on development experience, including a 6-month Full-Stack Development internship at 01 Synergy, where I worked on real-world applications using React, Node.js, Express, and MongoDB. I have practical experience delivering features end-to-end — from initial concept and API design to production deployment in cloud environments.
 
 ---
 
@@ -48,11 +48,13 @@ My core expertise includes React, Node.js, MongoDB, and cloud-based deployment, 
 
 ---
 
-## GitHub Overview
+## 🛠 Engineering Focus
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indxr1904&theme=github_dark" width="750" alt="GitHub Profile Summary"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1200&color=FFFFFF&center=true&vCenter=true&width=820&lines=Scalable+backend+systems+with+Node.js+and+Express;Responsive+frontend+applications+using+React;Secure+authentication+and+authorization+workflows;Clean+and+maintainable+MongoDB+schema+design;Cloud+deployment+and+production+environment+management" />
 </p>
+
+
 
 ---
 
