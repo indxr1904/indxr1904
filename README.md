@@ -10,7 +10,7 @@ Full-Stack Developer (MERN)
 
 I design and develop scalable, secure, and maintainable web applications with a strong emphasis on clean user interfaces, reliable backend systems, and robust authentication workflows.
 
-I bring 1 year of hands-on development experience, including a 6-month Full-Stack Development internship at 01 Synergy, where I worked on real-world applications using React, Node.js, Express, and MongoDB. I have practical experience delivering features end-to-end — from initial concept and API design to production deployment in cloud environments. Now currently working at Promatics Technologies as a Full Stack Developer
+I bring 1 year of hands-on development experience, including a 6-month Full-Stack Development internship at 01 Synergy, where I worked on real-world applications using React, Node.js, Express, and MongoDB. I have practical experience delivering features end-to-end — from initial concept and API design to production deployment in cloud environments. Now currently working at Promatics Technologies as a Full Stack Developer.
 
 ---
 
